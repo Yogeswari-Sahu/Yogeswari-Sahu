@@ -1,5 +1,5 @@
 # Hi, I'm Yogeswari Sahu! 👋  
-🚀 CS/AI Developer | Full-Stack Engineer | Machine Learning Enthusiast 
+🚀 CS/AI Developer | Full-Stack Software Engineer | Machine Learning Enthusiast 
 📍 Dallas, TX  
 📫 [Email](mailto:ysahujan0417@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yogeswari-sahu/) | [GitHub](https://github.com/Yogeswari-Sahu)
 
@@ -26,7 +26,7 @@ I'm a Master’s student in Computer Science at The University of Texas at Dalla
 
 ## 💼 Experience  
 
-**🚀 CS/AI Developer Intern** @ *FortifyGrid* (Jan 2025 – Present)  
+**🚀 CS/AI Developer Intern** @ *FortifyGrid* (Jan 2025 – May 2025)  
 - Engineered APIs to process 500M+ electricity market records with Python and BigQuery  
 - Automated interval-based retrieval for 30K+ nodes, enabling real-time analytics  
 - Enabled forecasting models to optimize energy bidding decisions  
@@ -43,7 +43,7 @@ I'm a Master’s student in Computer Science at The University of Texas at Dalla
 - Collaborated across 10+ portfolios, enhancing healthcare product quality  
 
 **🧠 Software Developer Intern** @ *Jio Platforms (Reliance Jio AI/ML CoE)* (May 2020 – Jun 2020)  
-- Built full-stack inventory management tools using Flask, HTML, CSS, JS  
+- Built full-stack inventory management tools using Flask, HTML, CSS, JS 
 - Improved stock prediction accuracy and real-time decision-making  
 
 ---
